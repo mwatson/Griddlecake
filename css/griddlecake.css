@@ -1,0 +1,32 @@
+/* container class, don't forget to add a width */
+.griddle { clear: both; }
+
+/* this is where all the magic happens */
+.col5 { float: left; width: 5%; }
+.col10 { float: left; width: 10%; }
+.col15 { float: left; width: 15%; }
+.col20 { float: left; width: 20%; }
+.col25 { float: left; width: 25%; }
+.col30 { float: left; width: 30%; }
+.col35 { float: left; width: 35%; }
+.col40 { float: left; width: 40%; }
+.col45 { float: left; width: 45%; }
+.col50 { float: left; width: 50%; }
+.col55 { float: left; width: 55%; }
+.col60 { float: left; width: 60%; }
+.col65 { float: left; width: 65%; }
+.col70 { float: left; width: 70%; }
+.col75 { float: left; width: 75%; }
+.col80 { float: left; width: 80%; }
+.col85 { float: left; width: 85%; }
+.col90 { float: left; width: 90%; }
+.col95 { float: left; width: 95%; }
+.col100, .row { float: left; width: 100%; }
+
+/* provided for three 'even' columns */
+.col33 { float: left; width: 33%; }
+.col34 { float: left; width: 34%; }
+
+/* if you need some basic gutters */
+.space { padding: 0px 10px; }
+.bigspace { padding: 0px 20px; }
